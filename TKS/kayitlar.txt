@@ -1,0 +1,40 @@
+----------------------------
+     1.Ünite------1.Test
+       Toplam Soru:12
+       Toplam Süre:-
+       Net Sayın:5.75
+       Doğru Sayın:7
+       Yanlış Sayın:5
+       Boş Sayın:0
+----------------------------
+     1.Ünite------2.Test
+       Toplam Soru:12
+       Toplam Süre:11
+       Net Sayın:4.75
+       Doğru Sayın:6
+       Yanlış Sayın:5
+       Boş Sayın:1
+----------------------------
+     1.Ünite------3.Test
+       Toplam Soru:12
+       Toplam Süre:-
+       Net Sayın:10.75
+       Doğru Sayın:11
+       Yanlış Sayın:1
+       Boş Sayın:0
+----------------------------
+     1.Ünite------4.Test
+       Toplam Soru:12
+       Toplam Süre:8.30
+       Net Sayın:4.75
+       Doğru Sayın:6
+       Yanlış Sayın:5
+       Boş Sayın:1
+----------------------------
+     1.Ünite------5.Test
+       Toplam Soru:12
+       Toplam Süre:-
+       Net Sayın:6.0
+       Doğru Sayın:7
+       Yanlış Sayın:4
+       Boş Sayın:1
